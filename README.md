@@ -1,4 +1,4 @@
-# Hi there, I'm Peterop-Chan! 👋
+# Hi there, I'm Peter-Chan! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Here you'll find a collection of my work, contributions, and projects that I'm proud to share with the community.
 
