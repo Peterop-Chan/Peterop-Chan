@@ -4,16 +4,15 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Go, Java
-- **Frameworks:** React, Node.js, Django, Flask, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Docker, Kubernetes, Git, CI/CD, AWS, GCP
+- **Languages:** Python, JavaScript, Html , Css
+- **Frameworks:** Flask
+- **Databases:** MySQL, 
+- **Tools:** Docker, Kubernetes, Git, AWS, GCP
 
 ## 🌱 Currently Learning
 
 - Advanced Kubernetes
 - Machine Learning with Python
-- Rust programming language
 
 ## 📈 GitHub Stats
 
