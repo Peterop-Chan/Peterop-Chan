@@ -21,5 +21,5 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ## 📫 How to Reach Me
 
 - **Email:** peterchanwork01@gmail.com
-- **LinkedIn:** [Peterop-Chan]([https://www.linkedin.com/in/peteropchan](https://www.linkedin.com/in/chan-cheuk-nam/))
+- **LinkedIn:** https://www.linkedin.com/in/peteropchan](https://www.linkedin.com/in/chan-cheuk-nam/
 
